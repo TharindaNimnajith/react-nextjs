@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-    reactStrictMode: true,
+  reactStrictMode: true
 }
 
+// noinspection JSUnresolvedVariable
 module.exports = nextConfig
